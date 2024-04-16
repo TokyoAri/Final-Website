@@ -1,0 +1,72 @@
+{
+  "package": {
+    "name": "bootstrap-restaurant-template",
+    "version": "1.0.0",
+    "description": "A Bootstrap template for a restaurant website",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": true
+  },
+  "supplies": [
+{
+"name": "Shakers",
+"price": 18.34,
+"description": "Premium cocktail shaker for aspiring home bartenders and seasoned professionals."
+},
+{
+"name": "Jiggers",
+"price": 12.50,
+"description": "Durable jiggers for precise measurements and flawless flavor balance."
+},
+{
+"name": "Muddlers",
+"price": 15.49,
+"description": "Ergonomically designed muddlers to unlock the full flavor of herbs and fruits."
+},
+{
+"name": "Strainers",
+"price": 17.52,
+"description": "Professional-grade strainers for a smooth, clean pour every time."
+},
+{
+"name": "Ice Buckets",
+"price": 15.00,
+"description": "Stylish ice buckets with superior insulation to maintain ideal temperature."
+},
+{
+"name": "Ice Crushers",
+"price": 20.00,
+"description": "Efficient ice crushers for perfect crushed ice in cocktails and mocktails."
+},
+{
+"name": "Corkscrews",
+"price": 7.00,
+"description": "Robust corkscrews engineered for a firm grip and smooth lever action."
+},
+{
+"name": "Bar Spoons",
+"price": 14.99,
+"description": "Long-handled bar spoons designed for effortless mixing and layering of drinks."
+},
+{
+"name": "Mixing Glasses",
+"price": 22.50,
+"description": "Durable mixing glasses essential for stirred cocktails."
+},
+{
+"name": "Pour Spouts",
+"price": 9.99,
+"description": "Precision pour spouts for controlling the flow of liquids."
+},
+{
+"name": "Juicers",
+"price": 14.50,
+"description": "Handheld juicers for extracting fresh juice with minimal effort."
+},
+{
+"name": "Bottle Openers",
+"price": 5.99,
+"description": "Sturdy and sleek bottle openers, a must-have for any bartender."
+},
